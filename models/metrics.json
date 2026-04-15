@@ -1,0 +1,39 @@
+{
+  "baseline": {
+    "mae": 120.48746012608268,
+    "rmse": 151.41714248844363,
+    "r2": -0.45654529316653036,
+    "mape": 28.490029461516027
+  },
+  "advanced": {
+    "mae": 37.23533434183193,
+    "rmse": 61.29151935497734,
+    "r2": 0.7613427255546708,
+    "mape": 8.736630995107424
+  },
+  "improvement_pct": 69.1,
+  "advanced_features": [
+    "month_sin",
+    "month_cos",
+    "dow_sin",
+    "dow_cos",
+    "day_of_month",
+    "week_of_year",
+    "quarter",
+    "is_weekend",
+    "promotion",
+    "sales_lag_1",
+    "sales_lag_2",
+    "sales_lag_3",
+    "sales_lag_7",
+    "sales_lag_14",
+    "sales_lag_28",
+    "sales_roll_mean_7",
+    "sales_roll_mean_14",
+    "sales_roll_mean_30",
+    "sales_roll_std_7",
+    "sales_roll_std_14",
+    "sales_roll_std_30",
+    "sales_expanding_mean"
+  ]
+}
