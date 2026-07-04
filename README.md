@@ -54,7 +54,7 @@ An end-to-end **sales forecasting system** that:
 
 | Metric | Baseline | My Model | Improvement |
 |--------|:---:|:---:|:---:|
-| **Avg. Daily Error (MAE)** | 120.49 | 37.24 | 🟢 **69.1% lower** |
+| **Avg. Daily Error (MAE)** | 120K | 37K | 🟢 **69.1% lower** |
 | **Error Rate (MAPE)** | 28.49% | 8.74% | 🟢 **69.3% lower** |
 | **Model Fit (R²)** | -0.46 *(no fit)* | 0.76 *(strong fit)* | 🟢 **Reliable** |
 
@@ -145,7 +145,7 @@ The biggest accuracy gain came not from the algorithm, but from **how the data w
 |---|---|---|
 | **Input** | 4 basic features (month, weekday) | 22 engineered features |
 | **Algorithm** | Linear Regression | Gradient Boosting (300 trees) |
-| **Daily Error** | $120.49 | $37.24 |
+| **Daily Error** | 120K | 37K |
 | **Verdict** | ❌ Not reliable | ✅ Production-ready |
 
 ---
