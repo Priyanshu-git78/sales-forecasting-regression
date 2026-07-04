@@ -14,8 +14,8 @@
 | | Before | After |
 |---|---|---|
 | **Forecasting Method** | Manual estimates / basic averages | Machine Learning (Gradient Boosting) |
-| **Forecast Error (MAE)** | $120.49 per day | $37.24 per day |
-| **Accuracy Improvement** | — | **69.1% more accurate** |
+| **Forecast Error (MAE)** | 12784.49 per day | 3745.24 per day |
+| **Accuracy Improvement** | — | **70.7% lower MAE** |
 | **Patterns Detected** | None | Seasonality, weekly cycles, promo effects |
 | **Business Impact** | Poor planning, stockouts, missed targets | Data-driven planning with reliable forecasts |
 
