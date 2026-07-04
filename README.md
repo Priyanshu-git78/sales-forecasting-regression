@@ -86,7 +86,7 @@ An end-to-end **sales forecasting system** that:
 
 ### 3. 🗓️ Weekends Drive Revenue
 
-![Weekly Pattern](outputs/03_weekly_pattern.png)
+
 
 - Saturday and Sunday generate **~30% more sales** than weekday average
 - **Recommendation:** Schedule promotions and campaigns for Fri–Sun to maximize return.
